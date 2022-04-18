@@ -4,7 +4,7 @@ Swift/SwiftUI project
 
 Hello !
 
-This is a mini projet personal for learn SwiftUI. I follow te tutorial in Hacking https://www.hackingwithswift.com/100/swiftui/19
+This is a mini projet personal for learn SwiftUI. I follow the tutorial in HackingWithSwift https://www.hackingwithswift.com/100/swiftui/19
 This is the projet Day 19.
 
 We creat an app who converted the degrees into Fahrenheit or Kelvin.
